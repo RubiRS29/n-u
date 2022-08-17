@@ -1,0 +1,41 @@
+.example-action-button {
+  margin-top: 8px;
+  margin-right: 8px;
+}
+
+.mat-form-field {
+  display: block;
+}
+
+.example-h2 {
+  margin: 10px;
+}
+
+.example-section {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+.example-margin {
+  margin: 10px;
+}
+
+input.example-right-align::-webkit-outer-spin-button,
+input.example-right-align::-webkit-inner-spin-button {
+  display: none;
+}
+
+input.example-right-align {
+  -moz-appearance: textfield;
+}
+
+.btt-submit{
+  min-width: 168px;
+  font-size: 20px;
+}
+
+.track-num{
+  width: 20rem;
+}
